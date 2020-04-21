@@ -32,7 +32,7 @@ function cadastrarPoke() {
 
       //Caso consiga cadastrar com sucesso, exibir essa mensagem
       console.log('Pokemon adicionado com sucesso!!!')
-      //E volta a aparecer o menu
+      //E volta a aparecer o menu [TESTANDO NOVA BRANCH] Teste
       menu()
     })
 
